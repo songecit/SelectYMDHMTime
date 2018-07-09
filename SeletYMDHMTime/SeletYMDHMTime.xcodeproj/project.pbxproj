@@ -14,6 +14,7 @@
 		0561FE2A20F338170004BCE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0561FE2820F338170004BCE2 /* LaunchScreen.storyboard */; };
 		0561FE2D20F338180004BCE2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0561FE2C20F338180004BCE2 /* main.m */; };
 		0561FE3620F338CB0004BCE2 /* RSTDatePickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0561FE3520F338CB0004BCE2 /* RSTDatePickerView.m */; };
+		0561FE3820F33DA30004BCE2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0561FE3720F33DA30004BCE2 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		0561FE2C20F338180004BCE2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		0561FE3420F338CB0004BCE2 /* RSTDatePickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RSTDatePickerView.h; sourceTree = "<group>"; };
 		0561FE3520F338CB0004BCE2 /* RSTDatePickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RSTDatePickerView.m; sourceTree = "<group>"; };
+		0561FE3720F33DA30004BCE2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				0561FE2820F338170004BCE2 /* LaunchScreen.storyboard */,
 				0561FE2B20F338170004BCE2 /* Info.plist */,
 				0561FE2C20F338180004BCE2 /* main.m */,
+				0561FE3720F33DA30004BCE2 /* README.md */,
 			);
 			path = SeletYMDHMTime;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				0561FE2A20F338170004BCE2 /* LaunchScreen.storyboard in Resources */,
 				0561FE2720F338170004BCE2 /* Assets.xcassets in Resources */,
+				0561FE3820F33DA30004BCE2 /* README.md in Resources */,
 				0561FE2520F338160004BCE2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
